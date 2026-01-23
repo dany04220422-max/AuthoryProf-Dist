@@ -1,3 +1,5 @@
+
+
 ---
 
 # 🦡 AuthoryProf (오소리) - 교과목 프로파일 자동화 솔루션
@@ -77,3 +79,8 @@ Copyright © 2026 **Daehyun Lee**. All rights reserved.
 프로그램의 무단 수정, 재배포 및 상업적 이용을 금합니다.
 
 ---
+
+### 📬 Contact
+
+문의사항이나 개선 요청은 GitHub Issue를 이용해 주세요.
+
